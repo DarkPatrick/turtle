@@ -1,0 +1,6 @@
+/Gilbert curve
+==X
+X=-YF+XFX+FY-
+Y=+XF-YFY-FX+
+F=F
+/angle=90

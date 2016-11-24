@@ -1,0 +1,4 @@
+/expirement with Koch snowflake(you can use any figure. for example square like this)
+==F+++F+++F+++F
+?F=500{F--F++++F--F}(F++F----F++F)
+/angle = 30

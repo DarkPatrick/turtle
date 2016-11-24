@@ -1,0 +1,5 @@
+==X
+X=F
+F=-YF+XFX+FY-
+?Y=500{+XF-YFY-FX+}(Y)
+/angle=90

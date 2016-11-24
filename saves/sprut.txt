@@ -1,0 +1,5 @@
+==B
+B=-XFFXX+
+X=[[-BBF]FX]
+F=F-[XFY]
+Y=+FYYFYX

@@ -1,0 +1,4 @@
+/Koch's snowflake
+==F++F++F
+F=F-F++F-F
+/angle=60

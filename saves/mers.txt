@@ -1,0 +1,7 @@
+/turtle angle = 311
+/rotage angle = 119
+==F--FX+X
+F=--Y[XF-FB]
+Y=-[[X]B+XF]
+X=BFYY+
+B=[+F]

@@ -1,0 +1,3 @@
+/randomic Koch's snowflake
+==F+F+F+F
+?F=500{F-F+F+F-F}(F+F-F-F+F)

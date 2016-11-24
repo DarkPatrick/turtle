@@ -1,0 +1,4 @@
+/randomic Sierpinski triangle
+==FXF--FF--FF
+F=FF
+?X=500{--FXF++FF++FF--}(800{--FF++FXF++FF--}(--FF++FF++FXF--))

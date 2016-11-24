@@ -1,0 +1,8 @@
+/something. i am not shure that this is fractal
+==X
+X=[FbbY]Y+X
+F=F
+b=b
+Y=[FbbZ]Z+Y
+Z=[F]+Z
+/angle~=15

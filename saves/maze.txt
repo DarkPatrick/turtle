@@ -1,0 +1,4 @@
+/very bad maze
+/angle = 90
+==F
+F=91{FFF}(100{F-F+F+FF+F+F+FF}(111{F-F+F+F[+F]-F}(125{F-F+F+F-F}(143{F+F-F-F+F}(167{F-F+F+F[F+F+F]-F}(200{FF[+F+F+F]F}(250{F[-F]+F-F-F+F}(333{F+F-F-F[F]+F}(500{F[+F]-F+F+F-F}(F-F+F+F[F]-F))))))))))
